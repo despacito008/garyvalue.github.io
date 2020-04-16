@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://e.coding.net/garyvalue/garyvalue.coding.me/garyvalue.coding.me</id>
+    <id>https://e.coding.net/garyvalue/garyvalue.coding.me</id>
     <title>Gridea</title>
-    <updated>2020-04-16T18:45:55.884Z</updated>
+    <updated>2020-04-16T18:49:09.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://e.coding.net/garyvalue/garyvalue.coding.me/garyvalue.coding.me"/>
-    <link rel="self" href="https://e.coding.net/garyvalue/garyvalue.coding.me/garyvalue.coding.me/atom.xml"/>
+    <link rel="alternate" href="https://e.coding.net/garyvalue/garyvalue.coding.me"/>
+    <link rel="self" href="https://e.coding.net/garyvalue/garyvalue.coding.me/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://e.coding.net/garyvalue/garyvalue.coding.me/garyvalue.coding.me/images/avatar.png</logo>
-    <icon>https://e.coding.net/garyvalue/garyvalue.coding.me/garyvalue.coding.me/favicon.ico</icon>
+    <logo>https://e.coding.net/garyvalue/garyvalue.coding.me/images/avatar.png</logo>
+    <icon>https://e.coding.net/garyvalue/garyvalue.coding.me/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://e.coding.net/garyvalue/garyvalue.coding.me/garyvalue.coding.me/post/hello-gridea/</id>
-        <link href="https://e.coding.net/garyvalue/garyvalue.coding.me/garyvalue.coding.me/post/hello-gridea/">
+        <id>https://e.coding.net/garyvalue/garyvalue.coding.me/post/hello-gridea/</id>
+        <link href="https://e.coding.net/garyvalue/garyvalue.coding.me/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
